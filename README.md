@@ -2,6 +2,7 @@
 Aplikasi Web Manajemen Inventori Barang Masuk dan Barang Keluar
 
 System Request Aplikasi Web Manajemen Inventori Barang Masuk dan Barang Keluar
+
 Person in charge: Divisi IT.
 
 Busineess Need: Sistem ini dibuat untuk memudahkan akses data informasi, melakukan kalkulasi
